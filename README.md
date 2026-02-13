@@ -6,41 +6,41 @@
 
 ## Project Description
 
-The verification layer for regulated capital.
+The verification layer for circular economy capital.
 
-We build the infrastructure that allows financial institutions to finance the real economy with total confidence.
+We build the infrastructure that allows financial institutions to finance the circular economy with total confidence.
 
-Financial institutions are under growing pressure to deploy capital into sustainable and real-world industrial assets — while simultaneously facing stricter regulatory scrutiny, higher compliance burdens, and increasing audit expectations. The problem isn't capital availability. It's trust in the underlying data.
+Financial institutions are under growing pressure to deploy capital into circular economy assets — while simultaneously facing stricter regulatory scrutiny, higher compliance burdens, and increasing audit expectations. The problem isn't capital availability. It's trust in the underlying circular economy data.
 
-Today, banks and institutional lenders rely on fragmented disclosures, static certifications, and delayed reporting. This creates risk uncertainty, slows deal flow, and limits the scale of financing into critical infrastructure and sustainable asset classes.
+Today, banks and institutional lenders rely on fragmented disclosures, static certifications, and delayed reporting. This creates risk uncertainty, slows deal flow, and limits the scale of financing into circular economy infrastructure and regenerative asset classes.
 
 **We exist to solve that.**
 
 ### Our Mission
 
-To become the trusted verification layer that enables regulated financial institutions to safely finance real-world assets using continuous, audit-ready lifecycle data.
+To become the trusted verification layer that enables regulated financial institutions to safely finance circular economy assets using continuous, audit-ready lifecycle data.
 
 ### Our Vision
 
-A world where financing decisions for real-world assets are based on continuous, verified truth — not delayed reporting or self-declared data.
+A world where financing decisions for circular economy assets are based on continuous, verified truth — not delayed reporting or self-declared data.
 
 ## Product Capability
 
-### Verified Asset Lifecycle
-Immutable history of how physical assets are created, used, and maintained over time.
+### Verified Circular Economy Asset Lifecycle
+Immutable history of how circular economy assets are created, used, recovered, and remanufactured over time.
 
-### Continuous Monitoring
-Real-time signals translated into decision-ready data for financing, risk, and compliance.
+### Continuous Circular Economy Monitoring
+Real-time signals translated into decision-ready data for circular economy financing, risk, and compliance.
 
-### Regulator-Ready Audit
-Instant replay of asset states and compliance proofs for stress tests and regulatory reporting.
+### Regulator-Ready Circular Economy Audit
+Instant replay of circular economy asset states and compliance proofs for stress tests and regulatory reporting.
 
-### Eligibility Intelligence
-API-first delivery of regulatory-aligned scores to accelerate underwriting and deal velocity.
+### Circular Economy Eligibility Intelligence
+API-first delivery of circular economy regulatory-aligned scores to accelerate underwriting and deal velocity.
 
 ## Who We Serve
 
-We partner with Tier 1 banks, institutional lenders, and regulated capital providers that need defensible, regulator-aligned data before deploying capital into complex real-world assets.
+We partner with Tier 1 banks, institutional lenders, and regulated capital providers that need defensible, regulator-aligned data before deploying capital into circular economy assets.
 
 - Regulatory Scrutiny
 - Scaling Sustainable Finance

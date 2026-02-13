@@ -6,10 +6,10 @@ const AboutPage: React.FC = () => {
     <div className="max-w-4xl mx-auto py-24 px-6 animate-in fade-in slide-in-from-bottom-4 duration-700">
       <header className="mb-24">
         <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-[#0a0a0a] mb-10 leading-[1.1]">
-          The verification layer for <span className="brand-gradient-text">regulated capital.</span>
+          The verification layer for <span className="brand-gradient-text">circular economy capital.</span>
         </h1>
         <p className="text-xl md:text-2xl text-[#4b5563] leading-[1.7] font-normal">
-          We build the infrastructure that allows financial institutions to finance the real economy with total confidence.
+          We build the infrastructure that allows financial institutions to finance the circular economy with total confidence.
         </p>
       </header>
 
@@ -17,10 +17,10 @@ const AboutPage: React.FC = () => {
         {/* Core Narrative */}
         <section className="space-y-10">
           <p className="text-lg text-[#4b5563] leading-[1.7] font-normal">
-            Financial institutions are under growing pressure to deploy capital into sustainable and real-world industrial assets — while simultaneously facing stricter regulatory scrutiny, higher compliance burdens, and increasing audit expectations. The problem isn't capital availability. It's trust in the underlying data.
+            Financial institutions are under growing pressure to deploy capital into circular economy assets — while simultaneously facing stricter regulatory scrutiny, higher compliance burdens, and increasing audit expectations. The problem isn't capital availability. It's trust in the underlying circular economy data.
           </p>
           <p className="text-lg text-[#4b5563] leading-[1.7] font-normal">
-            Today, banks and institutional lenders rely on fragmented disclosures, static certifications, and delayed reporting. This creates risk uncertainty, slows deal flow, and limits the scale of financing into critical infrastructure and sustainable asset classes.
+            Today, banks and institutional lenders rely on fragmented disclosures, static certifications, and delayed reporting. This creates risk uncertainty, slows deal flow, and limits the scale of financing into circular economy infrastructure and regenerative asset classes.
           </p>
           <p className="text-2xl font-bold text-[#0a0a0a] py-6 border-l-4 border-[#0a0a0a] pl-8 italic leading-[1.4]">
             "We exist to solve that."
@@ -32,13 +32,13 @@ const AboutPage: React.FC = () => {
           <section className="space-y-5">
             <h3 className="text-xs font-bold text-[#6b7280] uppercase tracking-[0.3em]">Our Mission</h3>
             <p className="text-lg text-[#4b5563] font-normal leading-[1.7]">
-              To become the trusted verification layer that enables regulated financial institutions to safely finance real-world assets using continuous, audit-ready lifecycle data.
+              To become the trusted verification layer that enables regulated financial institutions to safely finance circular economy assets using continuous, audit-ready lifecycle data.
             </p>
           </section>
           <section className="space-y-5">
             <h3 className="text-xs font-bold text-[#6b7280] uppercase tracking-[0.3em]">Our Vision</h3>
             <p className="text-lg text-[#4b5563] font-normal leading-[1.7]">
-              A world where financing decisions for real-world assets are based on continuous, verified truth — not delayed reporting or self-declared data.
+              A world where financing decisions for circular economy assets are based on continuous, verified truth — not delayed reporting or self-declared data.
             </p>
           </section>
         </div>
@@ -48,27 +48,27 @@ const AboutPage: React.FC = () => {
           <h3 className="text-xs font-bold text-[#6b7280] uppercase tracking-[0.3em] mb-12">Product Capability</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
             <div className="space-y-5">
-              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Verified Asset Lifecycle</h4>
+              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Verified Circular Economy Asset Lifecycle</h4>
               <p className="text-sm text-[#4b5563] leading-[1.7]">
-                Immutable history of how physical assets are created, used, and maintained over time.
+                Immutable history of how circular economy assets are created, used, recovered, and remanufactured over time.
               </p>
             </div>
             <div className="space-y-5">
-              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Continuous Monitoring</h4>
+              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Continuous Circular Economy Monitoring</h4>
               <p className="text-sm text-[#4b5563] leading-[1.7]">
-                Real-time signals translated into decision-ready data for financing, risk, and compliance.
+                Real-time signals translated into decision-ready data for circular economy financing, risk, and compliance.
               </p>
             </div>
             <div className="space-y-5">
-              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Regulator-Ready Audit</h4>
+              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Regulator-Ready Circular Economy Audit</h4>
               <p className="text-sm text-[#4b5563] leading-[1.7]">
-                Instant replay of asset states and compliance proofs for stress tests and regulatory reporting.
+                Instant replay of circular economy asset states and compliance proofs for stress tests and regulatory reporting.
               </p>
             </div>
             <div className="space-y-5">
-              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Eligibility Intelligence</h4>
+              <h4 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Circular Economy Eligibility Intelligence</h4>
               <p className="text-sm text-[#4b5563] leading-[1.7]">
-                API-first delivery of regulatory-aligned scores to accelerate underwriting and deal velocity.
+                API-first delivery of circular economy regulatory-aligned scores to accelerate underwriting and deal velocity.
               </p>
             </div>
           </div>
@@ -79,7 +79,7 @@ const AboutPage: React.FC = () => {
           <div className="max-w-2xl">
             <h3 className="text-xs font-bold text-[#6b7280] uppercase tracking-[0.3em] mb-8">Who We Serve</h3>
             <p className="text-xl text-[#4b5563] font-normal leading-[1.7]">
-              We partner with Tier 1 banks, institutional lenders, and regulated capital providers that need defensible, regulator-aligned data before deploying capital into complex real-world assets.
+              We partner with Tier 1 banks, institutional lenders, and regulated capital providers that need defensible, regulator-aligned data before deploying capital into circular economy assets.
             </p>
           </div>
           
@@ -106,7 +106,7 @@ const AboutPage: React.FC = () => {
             </div>
             <div>
               <p className="text-sm font-bold text-[#0a0a0a] mb-3 leading-[1.3]">Jurisdiction-Aware</p>
-              <p className="text-sm text-[#4b5563] leading-[1.7]">Intelligent data models that adapt to sovereign mandates and regional green taxonomies.</p>
+              <p className="text-sm text-[#4b5563] leading-[1.7]">Intelligent data models that adapt to sovereign mandates and regional circular economy green taxonomies.</p>
             </div>
           </div>
         </section>

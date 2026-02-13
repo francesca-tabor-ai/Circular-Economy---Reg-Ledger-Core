@@ -20,10 +20,10 @@ const LandingPage: React.FC = () => {
         <div className="relative z-10 max-w-7xl mx-auto w-full">
           <div className="max-w-4xl">
             <h1 className="text-5xl md:text-7xl font-bold tracking-tight text-white mb-10 leading-[1.1]">
-              Infrastructure for Capital That Must Withstand Scrutiny
+              Infrastructure for Circular Economy Capital That Must Withstand Scrutiny
             </h1>
             <p className="text-xl md:text-2xl text-white/90 leading-[1.7] mb-14 font-normal">
-              Deploy capital into real-world assets with lifecycle intelligence regulators and credit committees can defend.
+              Deploy capital into circular economy assets with lifecycle intelligence regulators and credit committees can defend.
             </p>
             <p className="text-sm text-white/70 mb-12 leading-relaxed">
               Built on the institutional system philosophy of founder Marcus Ellison.
@@ -57,15 +57,15 @@ const LandingPage: React.FC = () => {
       {/* Problem Section */}
       <section className="max-w-7xl mx-auto px-6 md:px-10 py-32 md:py-40">
         <div className="max-w-4xl">
-          <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-[#0a0a0a] mb-8 leading-[1.2]">
+            <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-[#0a0a0a] mb-8 leading-[1.2]">
             The Constraint Isn't Capital.<br />
-            It's Trust In The System Behind The Asset.
+            It's Trust In The System Behind Circular Economy Assets.
           </h2>
           <div className="space-y-16 mt-20">
             <div>
-              <p className="text-lg text-[#4b5563] mb-8 font-normal leading-[1.7]">Financial institutions are being asked to finance:</p>
+              <p className="text-lg text-[#4b5563] mb-8 font-normal leading-[1.7]">Financial institutions are being asked to finance circular economy assets:</p>
               <ul className="space-y-4">
-                {['Complex infrastructure', 'Transition industrial assets', 'Long-life physical systems'].map((item, idx) => (
+                {['Circular infrastructure projects', 'Regenerative industrial assets', 'Material recovery and remanufacturing systems', 'Long-life circular economy assets'].map((item, idx) => (
                   <li key={idx} className="flex items-start gap-3">
                     <span className="text-[#6b7280] mt-1.5">—</span>
                     <span className="text-[#4b5563] leading-relaxed">{item}</span>
@@ -102,18 +102,18 @@ const LandingPage: React.FC = () => {
         <div className="max-w-7xl mx-auto px-6 md:px-10">
           <div className="max-w-4xl">
             <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-[#0a0a0a] mb-10 leading-[1.2]">
-              A Verification Infrastructure For Institutional Capital
+              A Verification Infrastructure For Circular Economy Capital
             </h2>
             <p className="text-xl text-[#4b5563] leading-[1.7] mb-16 font-normal">
-              Our platform provides continuous, regulator-aligned intelligence on how real-world assets are designed, built, operated, and maintained across their lifecycle.
+              Our platform provides continuous, regulator-aligned intelligence on how circular economy assets are designed, built, operated, and maintained across their lifecycle — tracking material flows, recovery rates, and circularity metrics.
             </p>
             <p className="text-lg text-[#4b5563] mb-10 font-normal leading-[1.7]">So institutions can:</p>
             <ul className="space-y-5 mb-16">
               {[
-                'Price risk with real system data',
-                'Defend financing decisions under audit',
-                'Scale capital deployment into complex assets',
-                'Reduce regulatory interpretation ambiguity'
+                'Price risk with real circular economy system data',
+                'Defend financing decisions under audit with verified circularity metrics',
+                'Scale capital deployment into circular economy assets',
+                'Reduce regulatory interpretation ambiguity for circular finance'
               ].map((item, idx) => (
                 <li key={idx} className="flex items-start gap-4">
                   <div className="w-2.5 h-2.5 rounded-full brand-gradient mt-2 flex-shrink-0"></div>
@@ -131,12 +131,12 @@ const LandingPage: React.FC = () => {
           <h2 className="text-3xl md:text-4xl font-bold tracking-tight text-[#0a0a0a] mb-20 leading-[1.2]">Core Value Pillars</h2>
           <div className="space-y-20">
             <div>
-              <h3 className="text-2xl font-bold text-[#0a0a0a] mb-5 leading-[1.3]">Lifecycle Truth — Not Snapshot Reporting</h3>
-              <p className="text-lg text-[#4b5563] leading-[1.7]">Continuous verification across asset life, not periodic disclosures.</p>
+              <h3 className="text-2xl font-bold text-[#0a0a0a] mb-5 leading-[1.3]">Circular Economy Lifecycle Truth — Not Snapshot Reporting</h3>
+              <p className="text-lg text-[#4b5563] leading-[1.7]">Continuous verification across circular asset lifecycles, tracking material flows and recovery rates, not periodic disclosures.</p>
             </div>
             <div>
-              <h3 className="text-2xl font-bold text-[#0a0a0a] mb-5 leading-[1.3]">Regulatory Alignment — By Design</h3>
-              <p className="text-lg text-[#4b5563] leading-[1.7]">Signals mapped to real regulatory logic, not marketing frameworks.</p>
+              <h3 className="text-2xl font-bold text-[#0a0a0a] mb-5 leading-[1.3]">Circular Economy Regulatory Alignment — By Design</h3>
+              <p className="text-lg text-[#4b5563] leading-[1.7]">Signals mapped to circular economy regulatory logic and green taxonomies, not marketing frameworks.</p>
             </div>
             <div>
               <h3 className="text-2xl font-bold text-[#0a0a0a] mb-5 leading-[1.3]">Institutional Decision Context — Built In</h3>
@@ -188,27 +188,27 @@ const LandingPage: React.FC = () => {
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-[#0a0a0a] mb-20 leading-[1.2]">What The Platform Delivers</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-16">
             <div className="space-y-5">
-              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Verified Asset Lifecycle Registry</h3>
+              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Verified Circular Economy Asset Lifecycle Registry</h3>
               <p className="text-[#4b5563] leading-[1.7]">
-                Defensible history of asset origin, materials, compliance state, and operational performance.
+                Defensible history of circular asset origin, material flows, recovery rates, compliance state, and circularity performance.
               </p>
             </div>
             <div className="space-y-5">
-              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Continuous Compliance Intelligence</h3>
+              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Continuous Circular Economy Compliance Intelligence</h3>
               <p className="text-[#4b5563] leading-[1.7]">
-                Real-time signals when assets move outside regulatory or financing tolerances.
+                Real-time signals when circular economy assets move outside regulatory tolerances or circularity thresholds.
               </p>
             </div>
             <div className="space-y-5">
-              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Audit-Ready System Replay</h3>
+              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Audit-Ready Circular Economy System Replay</h3>
               <p className="text-[#4b5563] leading-[1.7]">
-                Reconstruct financing eligibility and compliance state at any historical moment.
+                Reconstruct circular economy financing eligibility and compliance state at any historical moment.
               </p>
             </div>
             <div className="space-y-5">
-              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Financing Eligibility Intelligence</h3>
+              <h3 className="text-xl font-bold text-[#0a0a0a] leading-[1.3]">Circular Economy Financing Eligibility Intelligence</h3>
               <p className="text-[#4b5563] leading-[1.7]">
-                Regulatory-aligned signals for underwriting, portfolio monitoring, and capital allocation.
+                Regulatory-aligned signals for circular economy underwriting, portfolio monitoring, and capital allocation.
               </p>
             </div>
           </div>
@@ -223,16 +223,16 @@ const LandingPage: React.FC = () => {
               Who This Is For
             </h2>
             <p className="text-xl text-[#4b5563] mb-16 font-normal leading-[1.7]">
-              Built for institutions where decisions must survive scrutiny.
+              Built for institutions financing the circular economy where decisions must survive scrutiny.
             </p>
             <p className="text-lg text-[#4b5563] mb-10 font-normal leading-[1.7]">Primary users:</p>
             <ul className="grid grid-cols-1 md:grid-cols-2 gap-5 mb-20">
               {[
-                'Tier 1 Banks',
-                'Institutional Lenders',
-                'Infrastructure Finance Teams',
-                'Sovereign Capital Programs',
-                'Regulated Industrial Asset Investors'
+                'Tier 1 Banks financing circular economy',
+                'Institutional Lenders for circular assets',
+                'Circular Economy Infrastructure Finance Teams',
+                'Sovereign Circular Capital Programs',
+                'Regulated Circular Economy Asset Investors'
               ].map((item, idx) => (
                 <li key={idx} className="flex items-center gap-4">
                   <div className="w-2.5 h-2.5 rounded-full brand-gradient flex-shrink-0"></div>
@@ -308,8 +308,8 @@ const LandingPage: React.FC = () => {
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-[#0a0a0a] mb-10 leading-[1.2]">
             Institutional Intelligence. Accessible Through Conversation.
           </h2>
-          <p className="text-xl text-[#4b5563] leading-[1.7] mb-12 font-normal">
-            Inside the platform, users can interact directly with the system through the Founder Intelligence interface — translating technical signals into institutional decision context.
+            <p className="text-xl text-[#4b5563] leading-[1.7] mb-12 font-normal">
+            Inside the platform, users can interact directly with the system through the Founder Intelligence interface — translating circular economy technical signals into institutional decision context.
           </p>
           <div className="bg-[#f9fafb] rounded-3xl p-10 border border-[#e5e7eb]">
             <p className="text-lg text-[#4b5563] font-normal leading-[1.7]">
@@ -330,10 +330,10 @@ const LandingPage: React.FC = () => {
               Capital Can Move With Confidence.
             </h2>
             <p className="text-xl text-[#4b5563] leading-[1.7] mb-16 font-normal">
-              If your institution is deploying capital into long-horizon physical systems, the cost of data ambiguity compounds every year.
+              If your institution is deploying capital into circular economy assets, the cost of data ambiguity compounds every year.
             </p>
             <p className="text-lg text-[#4b5563] font-normal leading-[1.7]">
-              We are building the verification layer designed to match the time horizon of the assets you finance.
+              We are building the verification layer for circular economy assets, designed to match the time horizon of the circular assets you finance.
             </p>
           </div>
         </div>
@@ -343,7 +343,7 @@ const LandingPage: React.FC = () => {
       <section className="max-w-7xl mx-auto px-6 md:px-10 py-32 md:py-40">
         <div className="max-w-4xl mx-auto text-center">
           <h2 className="text-4xl md:text-5xl font-bold tracking-tight text-[#0a0a0a] mb-16 leading-[1.2]">
-            Deploy Capital With System-Level Confidence
+            Deploy Circular Economy Capital With System-Level Confidence
           </h2>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <button className="brand-gradient text-white px-10 py-5 rounded-2xl text-sm font-bold uppercase tracking-widest soft-shadow hover:scale-[1.02] transition-all">

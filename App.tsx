@@ -65,9 +65,9 @@ const App: React.FC = () => {
         <div className="col-span-12 lg:col-span-8 space-y-12">
           
           <div className="space-y-3">
-            <h2 className="text-4xl font-bold tracking-tight text-[#0a0a0a] leading-[1.2]">Asset Verification Ledger</h2>
+            <h2 className="text-4xl font-bold tracking-tight text-[#0a0a0a] leading-[1.2]">Circular Economy Asset Verification Ledger</h2>
             <p className="text-[#4b5563] text-lg leading-[1.7] max-w-2xl font-normal">
-              Institutional-grade verification rails for real-world industrial assets. Audit-ready lifecycle data at scale.
+              Institutional-grade verification rails for circular economy assets. Audit-ready lifecycle data at scale.
             </p>
           </div>
 
@@ -129,7 +129,7 @@ const App: React.FC = () => {
 
           <div className="p-8 rounded-3xl brand-gradient text-white soft-shadow">
             <h3 className="text-xs font-bold text-white/80 uppercase tracking-widest mb-4">Financing Eligibility API</h3>
-            <p className="text-sm font-normal mb-6 leading-[1.7]">Embed real-world asset verification directly into your underwriting workflow.</p>
+            <p className="text-sm font-normal mb-6 leading-[1.7]">Embed circular economy asset verification directly into your underwriting workflow.</p>
             <button className="bg-white/10 hover:bg-white/20 backdrop-blur-md px-6 py-3 rounded-2xl text-xs font-bold uppercase tracking-widest w-full transition-all duration-200 border border-white/20 hover:border-white/30 hover:scale-[1.02] active:scale-[0.98]">
               Generate API Secret
             </button>
